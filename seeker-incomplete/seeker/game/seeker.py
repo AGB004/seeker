@@ -36,4 +36,4 @@ class Seeker():
             self (Seeker): An instance of Seeker.
             location (int): The given location.
         """
-        self.location == location
+        self.location = location
